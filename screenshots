@@ -1,0 +1,7 @@
+screenshots/
+
+├── EC2 Running.png
+├── Auto Scaling Group.png
+├── CloudWatch Alarm.png
+├── CPU Graph.png
+├── New Instance Created.png
